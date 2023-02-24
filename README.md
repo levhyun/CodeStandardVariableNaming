@@ -1,10 +1,10 @@
 # CodeStandardVariableNaming
 
-- [**Snakecase**](snaker-case)
-- [**Pascal case**](pascal-case)
-- [**Camel case**](camel-case)
-- [**Kebab case**](kebab-case)
-- [**Hungarian Notation**](hungarian-notation)
+- [**Snakecase**](#snaker-case)
+- [**Pascal case**](#pascal-case)
+- [**Camel case**](#camel-case)
+- [**Kebab case**](#kebab-case)
+- [**Hungarian Notation**](#hungarian-notation)
 
 #
 
